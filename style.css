@@ -24,6 +24,7 @@ body {
   background-color: white;
   width: 20rem;
   flex-grow: 0;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0477);
 }
 .qr-card__wrapper {
   width: 288px;
